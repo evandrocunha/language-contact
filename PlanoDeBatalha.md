@@ -21,13 +21,13 @@
   - Distribuição de probabilidade para ver se há troca de palavras ou não?
   - Palavras pouco frequentes desaparecem á medida em que indivíduos morrem.
   
-  ### Resultados do contato linguístico:
+### Resultados do contato linguístico:
     
-    1. Empréstimo.
-    2. Language shift. Troca de palavras mais frequênte em uma direção.
-    3. Stratal influence. Medir quantas palavras da língua dominada passam a fazer parte da língua dominadora.
-    4. Criação de novas línguas:
-      - Pidgin
-      - Creolização
-    5. O que propriedades de grafo (Betweeness, etc.) nos dizem no contexto de criação de novas línguas?
+  1. Empréstimo.
+  2. Language shift. Troca de palavras mais frequênte em uma direção.
+  3. Stratal influence. Medir quantas palavras da língua dominada passam a fazer parte da língua dominadora.
+  4. Criação de novas línguas:
+    - Pidgin
+    - Creolização
+  5. O que propriedades de grafo (Betweeness, etc.) nos dizem no contexto de criação de novas línguas?
   
